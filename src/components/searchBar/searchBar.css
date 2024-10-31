@@ -1,0 +1,8 @@
+.center-two {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-25%, -25%);
+    transform: translate(-55%, -275%);
+}
