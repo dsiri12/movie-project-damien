@@ -1,3 +1,4 @@
+import React from "react";
 import "./searchButton.css";
 
 interface SearchButtonProps {
